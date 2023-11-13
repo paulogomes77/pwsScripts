@@ -80,5 +80,5 @@ if (Test-Path $filePath) {
 
     Write-Host "`r`nAs contas de uz foram criadas com sucesso!"
 } else {
-    Write-Host "O arquivo $filePath não foi encontrado em."
+    Write-Host "O arquivo $filePath não foi encontrado."
 }
